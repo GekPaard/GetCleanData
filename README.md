@@ -109,6 +109,7 @@ First connect to the workspace
 
 
  [1]  "subject_No"
+ 
        Depersonalised identification of subject
 
  [2]	"activity_Name"	
@@ -119,6 +120,7 @@ First connect to the workspace
        in X-axis 
 
  [4]	"time_of_body_acceleration_signals_mean()_Y-axis"	
+ 
        Mean of mean time domain signal of body accelaration measurements
        in Y-axis
 
