@@ -8,6 +8,7 @@ output: html_document
 ---
 
 # Description of run_analysis.R
+## Origin of the data sets 
 
 The datasets used are from: 
  Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra 
