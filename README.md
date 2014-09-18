@@ -93,7 +93,7 @@ First connect to the workspace
  changed these column names in (hopefully) human readable names
  replace the old column names with the changed colum names
 
-### Step 5 : Creates a second, independent tidy dataset with the average of each activity and each subject
+### step 5 : Creates a second, independent tidy dataset with the average of each activity and each subject
 
  select columns with mean (= "mean", "average") from the data set of step 4
  get the test and train subjects and concatenate them in the same order 
