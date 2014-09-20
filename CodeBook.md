@@ -70,7 +70,8 @@ output: html_document
        Mean of mean time domain signal of body gyroscope measurements 
        in Y-axis
 
-[14]	"time_of_body_gyroscope_signals_mean()_Z-axis"  
+[14]	"time_of_body_gyroscope_signals_mean()_Z-axis"
+
        Mean of mean time domain signal of body gyroscope measurements
        in Z-axis
 
