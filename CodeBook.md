@@ -4,6 +4,8 @@ author: "Gek Paard"
 date: "Thursday, September 18, 2014"
 output: html_document
 ---
+NB In the original code book there were no units described, so they are not described here. 
+
 # Code Book
 
 
@@ -14,6 +16,7 @@ output: html_document
  [2]  "activity_Name" 
  
        Activity of subject during the measurements
+       Values: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
 
  [3]	"time_of_body_acceleration_signals_mean()_X-axis"
  
