@@ -7,6 +7,7 @@ date:   "Wednesday, September 17, 2014"
 output: html_document
 ---
 
+This repository contains the script run_analysis and a code book
 # Description of run_analysis.R
 ## Origin of the data sets 
 
