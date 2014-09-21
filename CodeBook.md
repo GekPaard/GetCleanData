@@ -104,7 +104,7 @@ First connect to the workspace
  create a data frame with the means of all activities (with plyr)
  write this data frame to a txt file
 
-## description of the resulting data frame
+# description of the resulting data frame
 
 
 
